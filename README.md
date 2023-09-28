@@ -2,7 +2,7 @@
 
 I am an aspiring data analyst with a passion for deriving insights and telling stories from data. Through my coursework and self-study, I have built up skills in data cleaning, visualization, and trend analysis. This portfolio showcases some of my data analytics projects, highlighting my ability to gather, clean, analyze, and visualize data to uncover key insights and trends.
 
-EXCEL Projects : 1: BIKE SHARE ANALYSIS. Click HERE for details.
+EXCEL Projects : 1: BIKE SHARE ANALYSIS. Click [HERE](https://1drv.ms/w/s!AtKC44hfHCR8hGZM-8XGoK_Xwt-E?e=mSYQQb) for details.
                  2: RETAIL SALES ANALYSIS. Click HERE for details.
 
 SQL Projects : 1.MAVEN MOVIE ANALYSIS using MySQL. Click HERE for details.
