@@ -4,9 +4,9 @@ I am an aspiring data analyst with a passion for deriving insights and telling s
 
 EXCEL Projects : 1: BIKE SHARE ANALYSIS. Click [HERE](https://1drv.ms/w/s!AtKC44hfHCR8hGZM-8XGoK_Xwt-E?e=mSYQQb) for details.
 
-                 2: RETAIL SALES ANALYSIS. Click [HERE](https://1drv.ms/w/s!AtKC44hfHCR8hRNN60qPLoV3LPim?e=ZrxwqD) for details.
+                 2: RETAIL SALES ANALYSIS. Click  [HERE](https://1drv.ms/w/s!AtKC44hfHCR8hRNN60qPLoV3LPim?e=ZrxwqD) for details.
 
-SQL Projects : 1.MAVEN MOVIE ANALYSIS using MySQL. Click[HERE]( for details.
+SQL Projects : 1.MAVEN MOVIE ANALYSIS using MySQL. Click[HERE](https://1drv.ms/w/s!AtKC44hfHCR8hQI3jU4d1d-YafcP?e=vOEwPg) for details.
 
                2.RETAIL PRODUCT QUERIES using MS Sequel Server. Click HERE for details.
                
